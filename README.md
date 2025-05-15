@@ -1,11 +1,12 @@
-# 📍 SecureSync – Real-Time Location Tracking App
+![Screenshot 2025-05-14 170547](https://github.com/user-attachments/assets/7a5da380-b87d-423d-9407-689371177534)
 
+# 📍 SecureSync – Real-Time Location Tracking App
 **SecureSync** is a real-time location tracking application built with privacy in mind. It uses geolocation APIs and WebSockets to track and share user locations in real-time on an interactive map.
 
 ---
 
 ## 🌐 Live Demo
-> 🚀 [Click here to try SecureSync](https://your-securesync-app-link.com)
+> 🚀 [Click here to try SecureSync](https://secure-sync-by-saksham.onrender.com/)
 
 ⚠️ **Note:** Since the app is hosted on Render’s free tier, the server may take **2–3 minutes** to wake up if inactive for 15 minutes.
 
