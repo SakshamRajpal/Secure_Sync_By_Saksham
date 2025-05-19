@@ -63,3 +63,11 @@ npm install
 ```bash
 npx nodemon app.js
 ```
+
+---
+
+## 🤝 Contributing
+
+- Found a bug or want to contribute?
+- Feel free to fork the repo, make changes, and open a pull request.
+- ⭐ If you like this project, consider giving it a star!
